@@ -11,7 +11,6 @@ Aplicação que possibilita realizar upload de videos e por meio de IA, criar au
 - [Ferramentas](#ferramentas)
 - [Instalação](#instalação)
 - [Funcionalidade](#funcionalidades)
-- [Projeto](#projeto)
 - [Licença](#licença)
 
 ## Ferramentas
