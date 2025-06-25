@@ -47,7 +47,7 @@ npm install
 npm run dev
 ```
 
-Acesse http://localhost:5173 para visualizar a aplicação.
+Acesse `http://localhost:5173` para visualizar a aplicação. Para o uso completo, acesse o [back-end](https://github.com/brunohnsouza/creator-ai-node) desse projeto rodando localmente em `http://localhost:3333`:
 
 ## Funcionalidades
 
